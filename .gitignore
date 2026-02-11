@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.env
+.venv/
+
+# Database
+/db.sqlite3
+
+# Documents
+# *.pdf
